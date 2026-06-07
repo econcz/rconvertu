@@ -1,3 +1,8 @@
+# rconvertu 1.1.0
+
+## Changes
+* Updated the minimum R version to R 4.3.
+
 # rconvertu 1.0.0
 
 ## Changes
